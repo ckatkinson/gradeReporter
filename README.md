@@ -11,4 +11,6 @@ cell contents surrounded by quotes. The first row must be the field
 names. The second row must be the weighting that is being used to
 compute grades. The third row should be where the student grades begin.
 
+Run gradeReporter.py to get started. Try using the file example.csv when prompted along with emailtext.txt. These example files will not send any emails, so you can see how it works as setup safely.
+
 See the code and modify to your needs.
