@@ -1,5 +1,5 @@
 # gradeReporter
-A tailor-made spambot for sending grade reports to students
+Sends grade reports to students.
 
 Requires python3, [prompt_toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) and 
 [python-inquirer](https://github.com/magmax/python-inquirer).
